@@ -25,25 +25,25 @@ phpMyAdmin est Open Source, vous êtes donc invité à y contribuer. De nombreus
 
 **Crédit**
 
-- Tobias Ratschiller <tobias_at_ratschiller.com>
+- [Tobias Ratschiller](tobias_at_ratschiller.com)
 creator of the phpMyAdmin project
 maintainer from 1998 to summer 2000
-- Marc Delisle <marc_at_infomarc.info>
+- [Marc Delisle](marc_at_infomarc.info)
 multi-language version in December 1998
 various fixes and improvements
 first version of the SQL analyser (most of it)
 maintainer from 2001 to 2015
-- Olivier Müller <om_at_omnis.ch>
+- [Olivier Müller](om_at_omnis.ch)
 started SourceForge phpMyAdmin project in March 2001
 sync’ed different existing CVS trees with new features and bugfixes
 multi-language improvements, dynamic language selection
 many bugfixes and improvements
-- Loïc Chapeaux <lolo_at_phpheaven.net>
+- [Loïc Chapeaux](lolo_at_phpheaven.net)
 rewrote and optimized JavaScript, DHTML and DOM stuff
 rewrote the scripts so they fit the PEAR coding standards and generate XHTML1.0 and CSS2 compliant codes
 improved the language detection system
 many bugfixes and improvements
-- Robin Johnson <robbat2_at_users.sourceforge.net>
+- [Robin Johnson](robbat2_at_users.sourceforge.net)
 database maintenance controls
 table type code
 Host authentication IP Allow/Deny
@@ -51,12 +51,12 @@ DB-based configuration (Not completed)
 SQL parser and pretty-printer
 SQL validator
 many bugfixes and improvements
-- Armel Fauveau <armel.fauveau_at_globalis-ms.com>
+- [Armel Fauveau](armel.fauveau_at_globalis-ms.com)
 bookmarks feature
 multiple dump feature
 gzip dump feature
 zip dump feature
-- Geert Lund <glund_at_silversoft.dk>
+- [Geert Lund](glund_at_silversoft.dk)
 various fixes
 moderator of the phpMyAdmin former users forum at phpwizard.net
 
