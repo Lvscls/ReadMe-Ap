@@ -1,10 +1,10 @@
 # PhpMyAdmin
 
-**Introduction**
+## Introduction
 
 PhpmyAdmin est un logiciel gratuit en PHP pour administrer un serveur MySQL ou MariaDB.
 
-**Pré-requis**
+## Pré-requis
 
 Pour utiliser PhpmyAdmin il faut un serveur web comme Apach ou IIS
 
@@ -15,20 +15,20 @@ Il faut également :
 - Une base de donnée MySQL 5.5 ou une version plus récente , MariaDB 5.5 ou une version plus récente.
 - Un navigateur web avec cookie et Javascript
 
-**Installation**
+## Installation
 
 Le moyen le plus simple d'obtenir phpMyAdmin sur Windows consiste à utiliser des produits tiers qui incluent phpMyAdmin avec une base de données et un serveur Web tels que [WAMPSERVER](https://www.wampserver.com/)
 
-**Paramètres de connexion au serveur**
+## Paramètres de connexion au serveur
 
 Depuis la version 1.4.2, phpMyAdmin prend en charge l'administration de plusieurs serveurs MySQL. Par conséquent, un`$cfg['Servers']-array` a été ajouté qui contient les informations de connexion pour les différents serveurs. La première`$cfg['Servers'][$i]['host']` contient le nom d'hôte du premier serveur, le second `$cfg['Servers'][$i]['host']` le nom d'hôte du deuxième serveur, etc. Dans libraries/config.default.php, il n'y a qu'une seule section pour la définition du serveur, mais vous pouvez en mettre autant que vous le souhaitez dans config.inc.php, copier ce bloc ou les parties nécessaires (vous n'avez pas à définir tous les paramètres, juste ceux il faut changer).
 
 
-**Auteur**
+## Auteur
 
 phpMyAdmin est Open Source, vous êtes donc invité à y contribuer. De nombreuses fonctionnalités intéressantes ont été écrites par d'autres personnes et vous pouvez également contribuer à faire de phpMyAdmin un outil utile.
 
-**Crédit**
+## Crédit
 
 - [Tobias Ratschiller](tobias_at_ratschiller.com)
 creator of the phpMyAdmin project
