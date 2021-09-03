@@ -21,7 +21,6 @@ Le moyen le plus simple d'obtenir phpMyAdmin sur Windows consiste à utiliser de
 
 **Paramètres de connexion au serveur**
 
-![Image](/asset/docphp.png)
 Depuis la version 1.4.2, phpMyAdmin prend en charge l'administration de plusieurs serveurs MySQL. Par conséquent, un`$cfg['Servers']-array` a été ajouté qui contient les informations de connexion pour les différents serveurs. La première`$cfg['Servers'][$i]['host']` contient le nom d'hôte du premier serveur, le second `$cfg['Servers'][$i]['host']` le nom d'hôte du deuxième serveur, etc. Dans libraries/config.default.php, il n'y a qu'une seule section pour la définition du serveur, mais vous pouvez en mettre autant que vous le souhaitez dans config.inc.php, copier ce bloc ou les parties nécessaires (vous n'avez pas à définir tous les paramètres, juste ceux il faut changer).
 
 
