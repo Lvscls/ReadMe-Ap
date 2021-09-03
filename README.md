@@ -17,6 +17,11 @@ Il faut également :
 
 **Installation**
 
-
 Le moyen le plus simple d'obtenir phpMyAdmin sur Windows consiste à utiliser des produits tiers qui incluent phpMyAdmin avec une base de données et un serveur Web tels que [WAMPSERVER](https://www.wampserver.com/)
+
+**Auteur**
+
+phpMyAdmin est Open Source, vous êtes donc invité à y contribuer. De nombreuses fonctionnalités intéressantes ont été écrites par d'autres personnes et vous pouvez également contribuer à faire de phpMyAdmin un outil utile.
+
+
 
